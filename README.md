@@ -1,5 +1,5 @@
-# Automation_Project/n
-Automation project for Upgrad Assignment-1/n
+# Automation_Project\n
+Automation project for Upgrad Assignment-1\n
 Updates the apt repository and installs apache2
 Checks if apache2 is running and if not, it starts the service.
 Checks if apache2 is enabled and if not, it enables it.
